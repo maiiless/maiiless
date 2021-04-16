@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maiiless
-- 👀 I’m interested in Cybersecurity.
+- 👀 I’m interested in Networking & Cybersecurity.
 - 🌱 I’m currently learning Python and Linux Servers.
 - 💞️ I’m looking to collaborate in an open source project.
 
