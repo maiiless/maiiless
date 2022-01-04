@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maiiless
-- 👀 I’m interested in Networking & Cybersecurity.
-- 🌱 I’m currently learning Python and Linux Servers.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning JavaScript.
 
 <!---
 maiiless/maiiless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
